@@ -1,14 +1,15 @@
-##Install
+##Cockpit Install
+Install packages
 ```bash
 dnf install cockpit
 ```
 
-Enable
+Enable cockpit
 ```bash
 systemctl enable --now cockpit.socket
 ```
 
-Firewall
+Open Firewall for cockpit
 ```bash
 firewall-cmd --add-service=cockpit --permanent
 firewall-cmd --reload
