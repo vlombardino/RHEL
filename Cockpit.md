@@ -1,4 +1,4 @@
-## Install
+##Install
 ```bash
 dnf install cockpit
 ```
