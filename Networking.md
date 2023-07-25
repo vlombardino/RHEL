@@ -45,5 +45,5 @@ nmcli connection delete eth0
 > Add Connection
 ```bash
 nmcli con add type ethernet con-name eth0 ifname eth0
-```
 nmcli device modify eth0 ipv4.method auto
+```
