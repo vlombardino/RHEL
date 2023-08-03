@@ -35,7 +35,10 @@ sudo reboot
 ```
 
 ### Create a session
+> Run the following:
+```bash
 vncserver
+```
 
 ### Open port outputted port from a created session 
 ```bash
