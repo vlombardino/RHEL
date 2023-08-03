@@ -40,7 +40,7 @@ sudo reboot
 vncserver
 ```
 
-### Open port outputted port from a created session 
+### Open port outputted from a "Create a session" 
 ```bash
 sudo firewall-cmd --zone=public --add-port=8446/tcp --permanent
 sudo firewall-cmd --reload
