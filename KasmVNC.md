@@ -20,7 +20,7 @@ sudo dnf config-manager --set-enabled powertools
 sudo dnf install moreutils
 ```
 
-### Download & install KasmVNC
+### Download & install [KasmVNC Releases](https://github.com/kasmtech/KasmVNC/releases)
 ```bash
 wget https://github.com/kasmtech/KasmVNC/releases/download/v1.1.0/kasmvncserver_centos_core_1.1.0_x86_64.rpm
 
