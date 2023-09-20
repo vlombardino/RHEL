@@ -1,4 +1,4 @@
-# Install [repo]
+# Install [noVNC](https://novnc.com/info.html)
 ```
 sudo dnf install epel-release
 sudo dnf install novnc
