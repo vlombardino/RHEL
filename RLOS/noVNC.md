@@ -1,4 +1,5 @@
-# Install [noVNC](https://novnc.com/info.html)
+# [noVNC](https://novnc.com/info.html)
+### Install required software
 ```
 sudo dnf install epel-release
 sudo dnf install novnc
